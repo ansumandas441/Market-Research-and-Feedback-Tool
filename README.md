@@ -1,4 +1,4 @@
-# Questionnaire Application with Express and strapi cms.
+# Market research and feedback application with Express and strapi cms.
 
 The objective of this project is to create APIs that facilitate the submission of new questionnaires based on selected project types. These APIs should allow users to select a project type, retrieve questions specific to that type, and submit their responses, including text and file uploads.
 
