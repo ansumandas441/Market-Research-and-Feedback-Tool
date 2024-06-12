@@ -89,4 +89,3 @@ Now run the project with ```npm start```:
 
  ## Documentation swagger endpoints:
 ```http://localhost:3001/dev/docs/api-docs```   
->>>>>>> fb49a34f86baadcc41f2ffc725083cd90079266c
